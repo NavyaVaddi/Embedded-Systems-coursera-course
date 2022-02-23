@@ -12,7 +12,3 @@ Week 2
 Created a build environment using GNU Make and Makefiles to support two platforms: HOST and MSP432. Also used other features in the GNU toolchain.
 
 See: Makefile, sources.mk
-
-Week 3 -
-
-Week 4 -
